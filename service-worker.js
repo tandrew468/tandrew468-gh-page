@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tandrew468-gh-page/precache-manifest.93a80367535205b9a1708e1ae03b8670.js"
+  "tandrew468.xyz/precache-manifest.b39bf9879c675752e65710ddafaabb12.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tandrew468-gh-page/index.html", {
+workbox.routing.registerNavigationRoute("tandrew468.xyz/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
