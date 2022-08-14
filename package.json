@@ -1,8 +1,8 @@
 {
   "name": "tandrew468-website",
   "version": "0.1.0",
-  "homepage": "https://tandrew468.github.io/tandrew468-gh-page",
-  "private": true,
+  "homepage": "https://tandrew468.github.io",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
